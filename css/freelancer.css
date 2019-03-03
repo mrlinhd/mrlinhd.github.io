@@ -177,6 +177,20 @@ section h2 {
   }
 }
 
+.navbar .btn-social {
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+  padding: 0;
+  margin: 0 16px;
+}
+
+.navbar .btn-social .fab {
+  font-size: 16px;
+  line-height: 30px;
+  vertical-align: top;
+}
+
 header.masthead {
   padding-top: calc(6rem + 72px);
   padding-bottom: 6rem;
